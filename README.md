@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Lamakira/profil-card-component)
-- Live Site URL: [Add live site URL here](https://lamakira.github.io/profil-card-component/)
+- Solution URL: (https://github.com/Lamakira/profil-card-component)
+- Live Site URL: (https://lamakira.github.io/profil-card-component/)
 
 ### Built with
 
